@@ -87,6 +87,8 @@ Nav-Bar
 
  work out state and components 
  
+ This app has been deployed to Heroku and can be navagated to with the following link. https://vasistha-guidefinder2-app.herokuapp.com/
+ 
  
  
  
